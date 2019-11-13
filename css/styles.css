@@ -3,6 +3,11 @@ body {
 
 }
 
+h1.class {
+  text-decoration: underline;
+  color: blue
+}
+
 h2.intro {
   text-shadow: 30px;
   font-style: italic;
@@ -10,9 +15,10 @@ h2.intro {
   color: red;
 }
 
-img.intro {
-  text-decoration: underline;
-  background-color: green;
+img {
+  border: 3px solid #ddd;
+  border-radius: 30px;
+  padding: 5px;
 }
 
 p.intro {
