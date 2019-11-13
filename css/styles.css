@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+
+}
+
+h2.intro {
+  text-shadow: 30px;
+  font-style: italic;
+  font-family: helvetica;
+  color: red;
+}
+
+img.intro {
+  text-decoration: underline;
+  background-color: green;
+}
+
+p.intro {
+  font-family: helvetica;
+  font-style: italic;
+  font-weight: bold;
+}
